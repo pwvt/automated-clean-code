@@ -7,3 +7,4 @@ def test_sanity():
 
 def test_add():
     assert automated_clean_code.add_numbers(1, 2) == 3
+    #
